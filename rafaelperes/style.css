@@ -1,0 +1,69 @@
+/*
+Theme Name: Rafael Peres Blank Theme
+Theme URI: http://www.facebook.com/rafael.kolistt
+Description: Tema desenvolvido por Rafael Peres
+Author: Rafael Peres (KOLISTT Publicidade & Design)
+Author URI: http://www.rafaelperes.com
+Version: 1.0
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800');
+
+/*-----------------------------
+-> HEADER
+-----------------------------*/
+
+html, body {
+	font-family: 'Open Sans', sans-serif, Arial;
+}
+
+header {
+	padding: 20px;
+}
+
+/*-----------------------------------
+-> MENU
+-----------------------------------*/
+#menu {
+
+}
+
+	#menu ul li {
+
+	}
+
+/*-----------------------------
+-> FOOTER
+-----------------------------*/
+
+footer {
+	padding: 20px;
+}
+
+/*-----------------------------
+-> GLOBAL
+-----------------------------*/
+
+.current_page_item {
+	display: none;
+}
+
+/*-----------------------------
+-> MEDIA QUERIES
+-----------------------------*/
+
+@media (min-width: 1000px) {
+
+}
+
+@media (min-width: 794px) and (max-width: 1006px) {
+
+}
+
+@media (max-width: 793px) {
+
+}
+
+@media (max-width: 575px) {
+
+}
